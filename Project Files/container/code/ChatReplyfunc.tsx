@@ -106,6 +106,16 @@ const startData = {
             "message": "Hey there, welcome to our group! I saw you were new to Toronto, how are you finding it here?",
             "stamp": "12:20 PM"
         },
+        {
+            "sender": "User",
+            "message": "Yeah, I'm loving it so far, just still getting used to the change in the climate!!",
+            "stamp": "12:40 PM"
+        },
+        {
+            "sender": "bot",
+            "message": "Yeah, it gets pretty chilly here in the TDot. You defintiely need to get yourself toque and mack at some point!",
+            "stamp": "12:20 PM"
+        },
   
     ],
         "keywords" : [

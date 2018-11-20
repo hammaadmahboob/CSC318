@@ -2,6 +2,7 @@
 	"main": "build/index.js",
 	"license": "MIT",
 	"devDependencies": {
+		"@framer/framer.device-skin-apple-iphone-x-silver": "^1.0.0",
 		"@framer/framer.device-skin-apple-iphone-x-space-gray": "^1.0.0",
 		"@types/react": "^16.4.16",
 		"framer": "^0.9.2"
@@ -16,8 +17,11 @@
 	},
 	"author": "Hammaad Mahboob",
 	"dependencies": {
+		"@framer/benjamin.input": "^1.1.0",
 		"@framer/benjamin.profile": "^1.11.0",
 		"@framer/colebemis.feather-icons": "^1.2.0",
+		"@framer/eprototype.filtering-dropdown-menu": "^1.2.0",
+		"@framer/floris.unsplash": "^1.1.0",
 		"@framer/framer.examples": "^1.5.0",
 		"@framer/ismael.sticky": "^1.1.0",
 		"@framer/nochevolta.bottomsheet": "^1.14.0"
