@@ -8282,7 +8282,7 @@
         "isExternalMaster" : null,
         "isMaster" : false,
         "isTarget" : false,
-        "left" : -2598,
+        "left" : -2254,
         "locked" : false,
         "name" : "Messages",
         "navigationTarget" : null,
@@ -8307,7 +8307,7 @@
         "saturateEnabled" : 0,
         "sepia" : 0,
         "sepiaEnabled" : 0,
-        "top" : 6735,
+        "top" : 6782,
         "visible" : true,
         "width" : 375,
         "widthType" : 0
@@ -13219,7 +13219,7 @@
             "brightness" : 100,
             "brightnessEnabled" : 0,
             "centerAnchorX" : 0.5,
-            "centerAnchorY" : 0.48682634730538921,
+            "centerAnchorY" : 0.39700598802395209,
             "children" : [
 
             ],
@@ -13248,7 +13248,7 @@
             "fillType" : "color",
             "grayscale" : 0,
             "grayScaleEnabled" : 0,
-            "height" : 507,
+            "height" : 357,
             "heightType" : 0,
             "hueRotate" : 0,
             "hueRotateEnabled" : 0,
@@ -34570,7 +34570,7 @@
 
         ],
         "fillColor" : "white",
-        "fillEnabled" : true,
+        "fillEnabled" : false,
         "fillGradient" : {
           "__class" : "LinearGradient",
           "alpha" : 1,
@@ -35635,7 +35635,7 @@
 
         ],
         "fillColor" : "white",
-        "fillEnabled" : true,
+        "fillEnabled" : false,
         "fillGradient" : {
           "__class" : "LinearGradient",
           "alpha" : 1,
@@ -37160,7 +37160,7 @@
 
         ],
         "fillColor" : "white",
-        "fillEnabled" : true,
+        "fillEnabled" : false,
         "fillGradient" : {
           "__class" : "LinearGradient",
           "alpha" : 1,
@@ -62756,7 +62756,7 @@
             "navigationTarget" : "xLpLGbzkK",
             "navigationTransition" : "push",
             "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
-            "navigationTransitionDirection" : "left",
+            "navigationTransitionDirection" : "right",
             "opacity" : 1,
             "originalid" : null,
             "parentid" : "gXJB7h0gG",
